@@ -1,0 +1,16 @@
+﻿@model PagedList.IPagedList<Kady.Base.Entity.Employee>
+@using PagedList.Mvc;
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<div id="divpagedlist">
+    @Html.Partial("_employeeIndex", Model)
+</div>
+
+

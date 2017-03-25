@@ -1,0 +1,10 @@
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\bin\Debug\Kady.Base.Resource.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\bin\Debug\Kady.Base.Resource.pdb
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.csprojResolveAssemblyReference.cache
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.Shared.resources
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.csproj.GenerateResource.Cache
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.pdb
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\bin\Debug\ar-EG\Kady.Base.Resource.resources.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\Kady.Base.Resource.Shared.ar-EG.resources
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.Resource\obj\Debug\ar-EG\Kady.Base.Resource.resources.dll

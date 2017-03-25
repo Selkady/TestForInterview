@@ -1,0 +1,12 @@
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\Kady.Base.DAL.dll.config
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\Kady.Base.DAL.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\Kady.Base.DAL.pdb
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\EntityFramework.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\Kady.Base.Entity.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\Kady.Base.Entity.pdb
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\EntityFramework.xml
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\obj\Debug\Kady.Base.DAL.csprojResolveAssemblyReference.cache
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\obj\Debug\Kady.Base.DAL.dll
+C:\Users\SamehElKady\Documents\Visual Studio 2013\Projects\TestForLink\Kady.Base.DAL\obj\Debug\Kady.Base.DAL.pdb

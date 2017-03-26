@@ -14,6 +14,6 @@ namespace TestForLink.Helper
         public static SelectList DeptSelectList()
         {
             return new SelectList(IocContainer.Container.Resolve<IDeptService>().GetAll(),"Id","Name"); 
-        }
+        } 
     }
 }

@@ -177,6 +177,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Helper\CustomConfig.cs" />
+    <Compile Include="Helper\SelectHelper.cs" />
     <Compile Include="Ioc\ControllersInstaller.cs" />
     <Compile Include="Ioc\IocContainer.cs" />
     <Compile Include="Ioc\WindsorControllerFactory.cs" />

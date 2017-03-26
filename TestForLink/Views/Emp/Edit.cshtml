@@ -1,4 +1,5 @@
-﻿@model Kady.Base.Entity.Employee
+﻿@using TestForLink.Helper
+@model Kady.Base.Entity.Employee
 
 @{
     ViewBag.Title = "Edit";
@@ -36,7 +37,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Dept_Id, new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Dept_Id)
+                @Html.DropDownListFor(m => m.Dept_Id, SelectHelper.DeptSelectList(),"Please Select")
                 @Html.ValidationMessageFor(model => model.Dept_Id)
             </div>
         </div>

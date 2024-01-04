@@ -23,6 +23,7 @@ namespace Kady.Base.Strapping
             container.Register(Component.For<IDeptRepository>().ImplementedBy<DeptRepository>().LifestylePerWebRequest());
             container.Register(Component.For<IDeptService>().ImplementedBy<DeptService>().LifestylePerWebRequest());
             container.Register(Component.For<IEmpService>().ImplementedBy<EmpService>().LifestylePerWebRequest());
+            container.Register(Component.For<IEmpService>().ImplementedBy<EmpService>().LifestylePerWebRequest());
 
         }
     }
